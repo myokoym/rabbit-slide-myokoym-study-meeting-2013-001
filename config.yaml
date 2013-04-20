@@ -1,0 +1,22 @@
+---
+id: study-meeting-2013-001
+base_name: introduction-to-version-control-with-github
+tags:
+- rabbit
+- github
+- version control
+presentation_date: 2013/04/26
+version: 0.9.0
+licenses:
+- CC BY 3.0
+slideshare_id: 
+speaker_deck_id: 
+ustream_id: 
+vimeo_id: 
+author:
+  markup_language: :rd
+  name: Masafumi Yokoyama
+  email: myokoym@gmail.com
+  rubygems_user: myokoym
+  slideshare_user: myokoym
+  speaker_deck_user: myokoym

@@ -1,0 +1,42 @@
+= GitHubで学ぶ\nバージョン管理
+
+# : subtitle
+#    サブタイトル
+: author
+   Masafumi Yokoyama
+# : institution
+#    所属
+: content-source
+   社内勉強会2013#001
+: date
+   2013/04/26
+: allotted-time
+   30m
+: theme
+   nyankosakana
+
+= 自己紹介
+
+  * 入社５年目
+    * 高学年
+  * プログラマ/将棋指し/焼きそば
+    * Ruby/Vim/Linux/振り飛車/ネギ
+  * Rabbit Collaborators
+
+= 話すこと
+
+プログラマの仕事道具であるバージョン管理システムについて、
+GitHubというWebサイトを使って学びます。
+
+= 話さないこと
+
+* Gitの使い方
+  * コマンドラインは使いません
+* GitHubのソーシャル機能の使い方
+  * How to より What, Why 寄りです
+
+= キーワード
+
+* 履歴
+* 共有
+* 協業
