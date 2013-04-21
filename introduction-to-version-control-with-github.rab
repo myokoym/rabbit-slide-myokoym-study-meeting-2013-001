@@ -126,13 +126,6 @@
   サッカー選手が((*スパイク*))を履くように、
   プログラマーは((*バージョン管理システム*))を使う
 
-= バージョン管理システム
-
-  * バージョン管理に特化
-  * フリーソフトウェアが多い
-
-(('note: ここに図を入れたい'))
-
 = サーバーとクライアント
 
 : サーバー機能（リポジトリ）
@@ -219,17 +212,15 @@
 
 = ユーザー登録
 
-: 参考リンク
-(('note:https://www.google.co.jp/search?q=github'))\n
-(('note:http://d.hatena.ne.jp/shim0mura/20111212/1323660740'))
+: 参考
+(('note:https://www.google.co.jp/search?q=github'))
 
 = GUIアプリケーション
 
 : GitHub for Windows
     * Windowsから簡単にGitHubを使えるGUIアプリケーション
 
-(('note:https://www.google.co.jp/search?q=github+for+windows'))\n
-(('note:http://www.slideshare.net/furuya02/github-16186770'))
+(('note:https://www.google.co.jp/search?q=github+for+windows'))
 
 = ブラウザから使う
 
@@ -320,7 +311,7 @@
   # src = images/hello/file-update.png
   # relative_height= 100
 
-= 差分比較
+= ファイル修正
 
   # image
   # src = images/hello/history-update.png
