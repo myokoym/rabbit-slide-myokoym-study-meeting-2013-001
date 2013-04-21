@@ -199,6 +199,8 @@
   * GitHubについて
   * ((*GitHubをブラウザから使う方法*))
 
+= How to GitHub
+
 = 使える場所
 
   * コマンドライン
@@ -206,7 +208,7 @@
   * ブラウザ
   * ブラウザ (Gist)
 
-= コマンドラインから使う
+= コマンドライン
 
   (1) ローカルにＧｉｔをインストール
   (2) ブラウザからユーザー登録
@@ -214,6 +216,12 @@
   (4) ブラウザから公開鍵を登録
   (5) ブラウザで共有リポジトリ作成
   (6) 作業開始
+
+= ユーザー登録
+
+: 参考リンク
+(('note:https://www.google.co.jp/search?q=github'))\n
+(('note:http://d.hatena.ne.jp/shim0mura/20111212/1323660740'))
 
 = GUIアプリケーション
 
@@ -231,6 +239,104 @@
   (4) (('del: ブラウザから公開鍵を登録'))
   (5) ((*ブラウザで共有リポジトリ作成*))
   (6) ((*作業開始*))
+
+= デモ
+
+= リポジトリ作成
+
+  # image
+  # src = images/hello/github-home.png
+  # relative_height= 100
+
+= リポジトリ作成
+
+  # image
+  # src = images/hello/create-repo.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/home-created-repo.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/edit-create.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/edit-create-bottom.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/home-created-file.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/file-create.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/history-create.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/hello/diff-create.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/file-create.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/edit-update.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/edit-update-bottom.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/file-update.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/history-update.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/diff-update.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/hello/blame.png
+  # relative_height= 100
 
 = ブラウザから使う (Gist)
 
