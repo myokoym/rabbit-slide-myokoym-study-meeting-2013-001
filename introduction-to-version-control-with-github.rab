@@ -18,12 +18,12 @@
 = 自己紹介
 
 : システムズエンジニア
-   * 入社5年目（高学年）
+   * 入社5年目 (('note:（高学年）'))
 
 : フリーソフトウェアプログラマー
    * Rubyist/Vimmer/Linuxer (('note:（属性）'))
    * GitHub/RubyGems.org (('note:（活動場所）'))
-   * Rabbit Collaborators
+   * Rabbit Collaborators (('note:(It is this!)'))
 
 = 話すこと
 
@@ -132,7 +132,17 @@
    * 変更履歴やメタ情報を保存
 
 : クライアント機能
-   * ローカルファイルをリポジトリへ登録
+   * ローカルのファイルをリポジトリへ登録
+   * リポジトリのファイルをローカルへ取得
+
+= 用語
+
+  # RT
+  caption = バージョン管理システムの用語
+
+  登録, 取得
+
+  (('tag:center'))commit, checkout
 
 = 集中型と分散型
 
@@ -154,6 +164,26 @@
    * Git
    * Mercurial
 
+= 主なソフトウェア
+
+: 集中型
+   * CVS
+   * Subversion
+
+: 分散型
+   * ((*Git*))
+   * Mercurial
+
+= 用語
+
+  # RT
+  caption = Gitの用語（コマンド）
+
+  , 登録, 取得
+
+  (('tag:center'))ローカルとリポジトリ, add\ncommit, checkout
+  (('tag:center'))リポジトリ連携, push, pull
+
 = 話すこと
 
   * バージョン管理について
@@ -173,7 +203,7 @@
   * レンタルサーバー(VPSなど)
     * 環境構築・運用が大変
   * ローカルのリポジトリのみ
-    * クラッシュの恐怖
+    * クラッシュこわい
     * 他の場所で使えない
 
 = GitHub
@@ -385,7 +415,7 @@
   * (('del:履歴')) (('note:History'))
   * (('del:共有')) (('note:Share'))
   * 協業 (('note:Collaborate'))
-    * fork
-    * pull request
+    * branch, trunk
+    * clone (fork), pull request
 
 (('tag:right'))つづく。
