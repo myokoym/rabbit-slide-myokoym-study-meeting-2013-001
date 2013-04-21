@@ -320,19 +320,19 @@
   # src = images/hello/file-update.png
   # relative_height= 100
 
-= ファイル修正
+= 差分比較
 
   # image
   # src = images/hello/history-update.png
   # relative_height= 100
 
-= ファイル修正
+= 差分比較
 
   # image
   # src = images/hello/diff-update.png
   # relative_height= 100
 
-= ファイル修正
+= 差分比較
 
   # image
   # src = images/hello/blame.png
@@ -346,3 +346,55 @@
   (4) (('del: ブラウザから公開鍵を登録'))
   (5) (('del: ブラウザで共有リポジトリ作成'))
   (6) ((*作業開始*))
+
+= ファイル作成
+
+  # image
+  # src = images/gist/new-gist.png
+  # relative_height= 100
+
+= ファイル作成
+
+  # image
+  # src = images/gist/gist-home-new.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/gist/gist-editor.png
+  # relative_height= 100
+
+= ファイル修正
+
+  # image
+  # src = images/gist/gist-home-updated.png
+  # relative_height= 100
+
+= 差分比較
+
+  # image
+  # src = images/gist/gist-diff.png
+  # relative_height= 100
+
+= まとめ
+
+= バージョン管理システムを\n紹介する理由
+
+  # blockquote
+  プログラマーにとって、\nとても便利なツールだから
+
+= GitHubを紹介する理由
+
+  # blockquote
+  とても簡単にバージョン管理\nできるツールだから
+
+= キーワード
+
+  * (('del:履歴')) (('note:History'))
+  * (('del:共有')) (('note:Share'))
+  * 協業 (('note:Collaborate'))
+    * fork
+    * pull request
+
+(('tag:right'))つづく。
