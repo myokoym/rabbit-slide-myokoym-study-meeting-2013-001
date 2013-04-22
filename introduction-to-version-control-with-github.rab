@@ -416,7 +416,7 @@
   * (('del:履歴')) (('note:History'))
   * (('del:共有')) (('note:Share'))
   * 協業 (('note:Collaborate'))
-    * branch, trunk
+    * branch, trunk, merge
     * clone (fork), pull request
 
 (('tag:right'))つづく。
