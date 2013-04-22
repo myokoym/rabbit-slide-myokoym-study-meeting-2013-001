@@ -268,97 +268,97 @@
 
   # image
   # src = images/hello/github-home.png
-  # relative_height= 100
+  # relative_height = 100
 
 = リポジトリ作成
 
   # image
   # src = images/hello/create-repo.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/home-created-repo.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/edit-create.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/edit-create-bottom.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/home-created-file.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/file-create.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/history-create.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/hello/diff-create.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/hello/file-create.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/hello/edit-update.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/hello/edit-update-bottom.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/hello/file-update.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/hello/history-update.png
-  # relative_height= 100
+  # relative_height = 100
 
 = 差分比較
 
   # image
   # src = images/hello/diff-update.png
-  # relative_height= 100
+  # relative_height = 100
 
 = 差分比較
 
   # image
   # src = images/hello/blame.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ブラウザから使う (Gist)
 
@@ -373,31 +373,31 @@
 
   # image
   # src = images/gist/new-gist.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル作成
 
   # image
   # src = images/gist/gist-home-new.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/gist/gist-editor.png
-  # relative_height= 100
+  # relative_height = 100
 
 = ファイル修正
 
   # image
   # src = images/gist/gist-home-updated.png
-  # relative_height= 100
+  # relative_height = 100
 
 = 差分比較
 
   # image
   # src = images/gist/gist-diff.png
-  # relative_height= 100
+  # relative_height = 100
 
 = まとめ
 
