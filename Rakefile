@@ -5,5 +5,5 @@ require "rabbit/task/slide"
 Rabbit::Task::Slide.new do |task|
   # task.spec.files += Dir.glob("doc/**/*.*")
   # task.spec.files -= Dir.glob("private/**/*.*")
-  task.spec.add_runtime_dependency("rabbit-theme-nyankosakana")
+  task.spec.add_runtime_dependency("rabbit-theme-nyankosakana", ">= 1.0.1")
 end
